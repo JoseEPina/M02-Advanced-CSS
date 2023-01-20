@@ -92,8 +92,8 @@ section {
 .hero {
     background-image: url('../images/hero-bg.jpg');
     height: 600px;
-    background-size: cover;
-    background-position: center;
+    background-size: 85%;
+    background-position: 50% 80%;
     position: relative;
 }
 /* Hero Style End */
