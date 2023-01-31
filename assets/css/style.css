@@ -349,24 +349,15 @@ section {
 
 /* Media Query for Smaller Desktop Screens And Smaller  */
 @media screen and (max-width: 980px) {
-    header h1 a {
-        /* This will be applied on any screen smaller than 980px. */
-        color: tomato;
-    }
+    /* This will be applied on any screen smaller than 980px. */
 }
 
 /* Media Query for Tablets and Smaller */
 @media screen and (max-width: 768px) {
-    header h1 a {
-        /* This will be applied on any screen smaller than 768px */
-        font-size: 80px;
-    }
+    /* This will be applied on any screen smaller than 768px */
 }
 
 /* Media Query for Mobile Phones and Smaller */
 @media screen and (max-width: 575px) {
-    header h1 {
-        /* This will be applied on any screen smaller 575px */
-        font-size: 100px;
-    }
+    /* This will be applied on any screen smaller 575px */
 }
