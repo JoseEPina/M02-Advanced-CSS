@@ -11,7 +11,7 @@ A website that offers fitness training services.
 
 ## Website
 
-https://joseepina.github.io/p01-run-buddy/
+https://joseepina.github.io/M02-Advanced-CSS/
 
 ## Contribution
 
